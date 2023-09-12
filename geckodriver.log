@@ -1,0 +1,46 @@
+1694356414366	geckodriver	INFO	Listening on 127.0.0.1:64165
+1694356414671	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c1/znj11dv51rqbbkf_9ftxxrg00000gn/T/rust_mozprofilezNHv3z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694356415454	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694356415987	Marionette	INFO	Listening on port 64182
+WebDriver BiDi listening on ws://127.0.0.1:64166
+Read port: 64182
+1694356416260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64166/devtools/browser/a72d7d1d-5358-46b0-aff3-bb57a4d8c85f
+1694356418383	geckodriver	INFO	Listening on 127.0.0.1:64207
+1694356418895	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c1/znj11dv51rqbbkf_9ftxxrg00000gn/T/rust_mozprofileD42IZr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694356419429	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694356419803	Marionette	INFO	Listening on port 64227
+WebDriver BiDi listening on ws://127.0.0.1:64208
+Read port: 64227
+1694356420021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64208/devtools/browser/03d85288-0c66-46b2-b869-7801a3ee854f
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1694379513614	geckodriver	INFO	Listening on 127.0.0.1:65417
+1694379514129	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c1/znj11dv51rqbbkf_9ftxxrg00000gn/T/rust_mozprofileFF9PmO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694379514760	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694379515264	Marionette	INFO	Listening on port 65427
+WebDriver BiDi listening on ws://127.0.0.1:65418
+Read port: 65427
+1694379515388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65418/devtools/browser/3232318c-7d31-4b48-8e68-5d54f0719306
+JavaScript warning: https://www.glassdoor.com/seo-pages/assets/_next/static/chunks/main-391fd470091c4a0b.js, line 1: Script terminated by timeout at:
+a@https://www.glassdoor.com/seo-pages/assets/_next/static/chunks/main-391fd470091c4a0b.js:1:117454
+38745/61/q/<@https://www.glassdoor.com/seo-pages/assets/_next/static/chunks/main-391fd470091c4a0b.js:1:118077
+r@https://www.glassdoor.com/seo-pages/assets/_next/static/chunks/main-391fd470091c4a0b.js:1:114183
+
+1694436399728	Marionette	INFO	Stopped listening on port 64227
+1694436403108	Marionette	INFO	Stopped listening on port 65427
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1694436406337	Marionette	INFO	Stopped listening on port 64182
